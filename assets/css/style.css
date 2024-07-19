@@ -209,8 +209,19 @@ header{
 //  04 - Skills
 /////////////////////////////////////////////////////////////////////*/
 
+.row {
 
+}
 
+.body {
+	font-size: 14px;
+	line-height: 1.42857;
+	
+}
+
+.skills-row {
+	margin-top: 20px;
+}
 .services {
     max-width: 293px;
     height: 263px;
